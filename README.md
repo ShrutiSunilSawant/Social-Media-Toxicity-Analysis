@@ -1,5 +1,4 @@
-# Data Driven Fitness Toxicity and Community Engagement Analysis
-
+# Social Media Toxicity Analysis
 This project implements an automated data collection system that crawls and stores data from Reddit and 4chan. The system includes separate crawlers for each platform, database integration, and scheduled data collection.
 
 ## System Architecture
